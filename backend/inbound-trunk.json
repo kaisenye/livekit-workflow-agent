@@ -1,0 +1,6 @@
+{
+    "trunk": {
+      "name": "Twillio Inbound Trunk",
+      "numbers": ["+12313665738"]
+    }
+}
