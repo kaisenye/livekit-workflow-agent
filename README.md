@@ -1,4 +1,4 @@
-# Conduit - Dynamic Voice Agent Workflow System
+# Dynamic Voice Agent Workflow System
 
 A full-stack application that enables creation and execution of dynamic voice agent workflows, powered by LiveKit and React Flow.
 
